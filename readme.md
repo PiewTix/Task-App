@@ -2,9 +2,11 @@
 
 # Installation
 
-`npm install`
+1. Navigate to */code*
 
-`npm run`
+2. `npm install`
+
+3. `npm run`
 
 
 # Description 
