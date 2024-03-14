@@ -22,14 +22,15 @@ In this section, I shortly want to discuess my progress
 
 1. Quickly making architecture. I made an EER diagram:
 
-![Alt text](/img/eer.png raw=true "EER")
+![Image Alt text](/img/eer.png)
 
 3. Setting up the back-end (Node.js with Typescript)
 4. Deciding to use JSON file instead of database, based on the EER-diagram (bcs of time-limit)
 5. Making html pages with bootstrap (used ChatGPT for that), this process was done interleaved when new features were coded
 6. Adding Controller and the appropriate routes -> making REST API with CRUD operations
 7. Testing API with Postman (because I had errors):
-   ![Alt text](/img/todo.png raw=true "Postman")
+  ![Image Alt text](/img/todo.png)
+
 8. Prioritizing the most important features and finishing my work
    
    
