@@ -1,6 +1,10 @@
 
 
+# Installation
 
+`npm install`
+
+`npm run`
 
 
 # Description 
