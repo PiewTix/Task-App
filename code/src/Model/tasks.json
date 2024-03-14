@@ -1,0 +1,187 @@
+[
+  {
+    "id": "1",
+    "deadline": 1672610400000,
+    "name": "Complete project proposal",
+    "progress": "test",
+    "type": "work",
+    "description": "test"
+  },
+  {
+    "id": "2",
+    "deadline": 1672946000000,
+    "name": "Research new marketing strategies",
+    "progress": "in progress",
+    "type": "work",
+    "description": "Research and analyze new marketing strategies to improve customer engagement."
+  },
+  {
+    "id": "3",
+    "deadline": 1673205600000,
+    "name": "Call mom",
+    "progress": "in progress",
+    "type": "personal",
+    "description": "Call mom to check in and catch"
+  },
+  {
+    "id": "4",
+    "deadline": 1673492400000,
+    "name": "Review quarterly financial reports",
+    "progress": "in progress",
+    "type": "work",
+    "description": "Review and analyze quarterly financial reports for upcoming board meeting."
+  },
+  {
+    "id": "5",
+    "deadline": 1673703600000,
+    "name": "Go for a run",
+    "progress": "in progress",
+    "type": "personal",
+    "description": "Go for a 30-minute run in the park."
+  },
+  {
+    "id": "6",
+    "deadline": 1674034800000,
+    "name": "Update website content",
+    "progress": "in progress",
+    "type": "work",
+    "description": "Update website content with latest product information and news."
+  },
+  {
+    "id": "7",
+    "deadline": 1674366000000,
+    "name": "Buy groceries",
+    "progress": "done",
+    "type": "personal",
+    "description": "Purchase groceries for the week."
+  },
+  {
+    "id": "8",
+    "deadline": 1674661200000,
+    "name": "Prepare presentation slides",
+    "progress": "done",
+    "type": "work",
+    "description": "Create and finalize presentation slides for client meeting."
+  },
+  {
+    "id": "9",
+    "deadline": 1674861600000,
+    "name": "Read book",
+    "progress": "done",
+    "type": "personal",
+    "description": "Read a chapter of the new book."
+  },
+  {
+    "id": "10",
+    "deadline": 1675062000000,
+    "name": "Attend team meeting",
+    "progress": "todo",
+    "type": "work",
+    "description": "Attend weekly team meeting to discuss project updates.."
+  },
+  {
+    "id": "11",
+    "deadline": 1675317600000,
+    "name": "Dinner with friends",
+    "progress": "todo",
+    "type": "personal",
+    "description": "Meet up with friends for dinner at the new restaurant downtown."
+  },
+  {
+    "id": "12",
+    "deadline": 1675642800000,
+    "name": "Review project specifications",
+    "progress": "in progress",
+    "type": "work",
+    "description": "Review and clarify project specifications with the team."
+  },
+  {
+    "id": "13",
+    "deadline": 1675870800000,
+    "name": "Yoga class",
+    "progress": "in progress",
+    "type": "personal",
+    "description": "Attend yoga class for relaxation and flexibility."
+  },
+  {
+    "id": "14",
+    "deadline": 1676223600000,
+    "name": "Prepare monthly budget",
+    "progress": "done",
+    "type": "personal",
+    "description": "Create and finalize monthly budget for household expenses."
+  },
+  {
+    "id": "15",
+    "deadline": 1676468400000,
+    "name": "Review project progress",
+    "progress": "done",
+    "type": "work",
+    "description": "Review project progress and milestones with the project manager."
+  },
+  {
+    "id": "16",
+    "deadline": 1676732400000,
+    "name": "Call dentist for appointment",
+    "progress": "todo",
+    "type": "personal",
+    "description": "Schedule a dental check-up appointment with the dentist."
+  },
+  {
+    "id": "17",
+    "deadline": 1677004800000,
+    "name": "Update social media accounts",
+    "progress": "in progress",
+    "type": "work",
+    "description": "Update and post content on company's social media accounts."
+  },
+  {
+    "id": "18",
+    "deadline": 1677296400000,
+    "name": "Watch movie",
+    "progress": "in progress",
+    "type": "personal",
+    "description": "Watch a new movie release at the cinema."
+  },
+  {
+    "id": "19",
+    "deadline": 1677570000000,
+    "name": "Prepare weekly report",
+    "progress": "done",
+    "type": "work",
+    "description": "Compile and send out weekly progress report to the team."
+  },
+  {
+    "id": "20",
+    "deadline": 1677781200000,
+    "name": "Go for a hike",
+    "progress": "done",
+    "type": "personal",
+    "description": "Go for a hike in the mountains with friends."
+  },
+  {
+    "id": 21,
+    "name": "testnaam",
+    "description": "test",
+    "progress": "test",
+    "type": "test"
+  },
+  {
+    "id": "22",
+    "description": "hey",
+    "progress": "todo",
+    "type": "work"
+  },
+  {
+    "id": "221",
+    "description": "description lalala",
+    "progress": "todo",
+    "type": "personal"
+  },
+  {
+    "id": "2211",
+    "description": "Tekst desc",
+    "progress": "todo",
+    "type": "work"
+  }
+]
