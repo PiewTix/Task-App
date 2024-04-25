@@ -11,9 +11,9 @@
 
 # Description 
 
-Technical test for Tekst.
-Total time: 02h10min + 10-15min readme
-I don't take the time to write this file into account.
+
+Total time spent: 02h10min
+
 
 Technologies used:
 
@@ -43,7 +43,7 @@ In this section, I shortly want to discuess my progress
 # Remarks
 
 - No time left to implement: 
-	- Deadline (with timestamp). I knew this would be a lot of "prutswerk" so I skipped this part.
+	- Deadline (with timestamp). I knew this would be a lot of fiddling so I skipped this part.
 	- User authentication: didn't prioritize this feature for the MVP
 	- Forgot to display "type" of Task (work/personal) in the list.
 	- Delete button not implemented
